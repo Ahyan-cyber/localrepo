@@ -1,2 +1,2 @@
-# This is my local repo :) <br>
+# This is my local repo :)
 These will be front features.
